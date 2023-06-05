@@ -1,6 +1,6 @@
 /// <reference types='cypress' />
 
-describe('Student Registration page', () => {
+describe('DemoBlaza page', () => {
   let user;
 
   beforeEach(() => {
